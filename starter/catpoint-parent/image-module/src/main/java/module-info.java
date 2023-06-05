@@ -1,4 +1,4 @@
-module image.module {
+module com.udacity.catpoint.image {
     requires java.desktop;
     requires java.logging;
     requires org.slf4j;
